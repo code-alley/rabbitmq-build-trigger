@@ -76,6 +76,14 @@ Material
 
 [rabbitmq-consumer]: http://wiki.jenkins-ci.org/display/JENKINS/RabbitMQ+Consumer+Plugin
 
+
+Build (for Eclipse)
+------------------------
+Run Configuration 
+  
+  Goals : clean package
+  User settings option : checked skip Tests
+
 License
 ------------------------
 
