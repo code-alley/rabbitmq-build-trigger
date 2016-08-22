@@ -82,6 +82,7 @@ Build (for Eclipse)
 Run Configuration 
   
   Goals : clean package
+
   User settings option : checked skip Tests
 
 License
